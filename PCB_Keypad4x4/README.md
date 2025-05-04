@@ -8,6 +8,9 @@
 - 1 header 8 PIN
 - 1 LCD I2C
 - 1 ESP32
+- 1 Led red 5mm
+- 1 button 4 pin
+- 1 registor 330 Ohm
 
 # Link project
 - https://drive.google.com/drive/folders/1C_y7hXNY0b-arS4huSGyI3A977Ncowx1?usp=sharing
