@@ -6,6 +6,8 @@
 # Component parts
 - 16 buttons size 12x12x7.3mm
 - 1 header 8 PIN
+- 1 LCD I2C
+- 1 ESP32
 
 # Link project
 - https://drive.google.com/drive/folders/1C_y7hXNY0b-arS4huSGyI3A977Ncowx1?usp=sharing
