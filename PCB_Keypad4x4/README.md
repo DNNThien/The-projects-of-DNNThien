@@ -13,7 +13,7 @@
 - 1 registor 330 Ohm
 
 # Link project
-- https://drive.google.com/drive/folders/1C_y7hXNY0b-arS4huSGyI3A977Ncowx1?usp=sharing
+- https://drive.google.com/drive/folders/1XxRhQfSrE80DGqIFMD9mAKKWvMa_N5C8?usp=sharing
 
 # Simulation
 - https://wokwi.com/projects/430014335081459713
