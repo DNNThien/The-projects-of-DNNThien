@@ -25,7 +25,7 @@ All 38 GPIO pins are broken out to 2.54mm headers, making it easy to connect jum
 - Each header includes:
   - **SDA**
   - **SCL**
-  - **VCC** (3.3V)
+  - **VCC** (5V)
   - **GND**
 - Makes it easy to connect displays, sensors, and other I2C modules without soldering
 
@@ -36,7 +36,7 @@ All 38 GPIO pins are broken out to 2.54mm headers, making it easy to connect jum
 
 ## 📷 Preview
 
-*(Insert image of the board layout or schematic here if available)*
+- https://drive.google.com/drive/folders/1R_RpOR28A1k-9gBzrjRCwLDj6inaBXSF?usp=sharing
 
 ## 🛠️ Applications
 
@@ -44,7 +44,3 @@ All 38 GPIO pins are broken out to 2.54mm headers, making it easy to connect jum
 - IoT projects
 - Sensor interfacing
 - Educational purposes
-
----
-
-Feel free to customize pin assignments and expand functionality as needed.
