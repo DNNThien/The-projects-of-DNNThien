@@ -80,8 +80,9 @@ void readStr(int LENGTH)
     }
     delay(100);
   }
+  delay(1000);
   Serial.printf("Your string is '%s'\nLength of your string is %d\n", str, str.length());
-  displayToLcd(1, 4, 1, "YOUR STRING");
+  displayToLcd(1, 4, 1, "YOUR  STRING");
   displayToLcd(0, (20 - str.length()) / 2, 2, str);
   delay(5000);
 }
