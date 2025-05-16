@@ -47,10 +47,10 @@ This project uses the **Nios II soft processor** to build a **real-time digital 
 - Using Hercules App
 
 ## 🧩 Hardware Diagram
-- Link: https://miro.com/app/board/uXjVI-5-9uE=/?focusWidget=3458764625888600384
+- [Miro](https://miro.com/app/board/uXjVI-5-9uE=/?focusWidget=3458764625888600384)
 
 ## 🛠️ Quartus and Qsys
-- Link: https://drive.google.com/drive/folders/1uxAxpu0XRx3GzTwCHQcGSDX4you7m7gd?usp=drive_link
+- [Google Drive](https://drive.google.com/drive/folders/1uxAxpu0XRx3GzTwCHQcGSDX4you7m7gd?usp=drive_link)
 
 ## 🎬 Video demo
-- Link: https://youtu.be/Ni0YKa5ghsg
+- [Youtube](https://youtu.be/Ni0YKa5ghsg)

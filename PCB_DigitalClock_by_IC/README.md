@@ -29,5 +29,5 @@ This project aims to:
 
 ## 📷 Preview
 
-- https://drive.google.com/drive/folders/1T3v2Mmxn09is68GVfG9y3_J_IlURk6fw?usp=sharing
+- [Google Drive](https://drive.google.com/drive/folders/1T3v2Mmxn09is68GVfG9y3_J_IlURk6fw?usp=sharing)
 

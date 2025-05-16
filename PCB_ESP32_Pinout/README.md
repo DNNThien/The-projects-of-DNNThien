@@ -36,7 +36,7 @@ All 38 GPIO pins are broken out to 2.54mm headers, making it easy to connect jum
 
 ## 📷 Preview
 
-- https://drive.google.com/drive/folders/1R_RpOR28A1k-9gBzrjRCwLDj6inaBXSF?usp=sharing
+- [Google Drive](https://drive.google.com/drive/folders/1R_RpOR28A1k-9gBzrjRCwLDj6inaBXSF?usp=sharing)
 
 ## 🛠️ Applications
 
