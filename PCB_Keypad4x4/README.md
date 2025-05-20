@@ -13,5 +13,5 @@
 - 🌀 1 resistor 330 Ohm
 
 # 🔍 Preview
-- 📁 **Link project**: [Google Drive](https://drive.google.com/drive/folders/1XxRhQfSrE80DGqIFMD9mAKKWvMa_N5C8?usp=sharing)  
+- 📁 **Link project**: [Google Drive](https://drive.google.com/drive/folders/1Ca9h8e9ccmDUYErIwqKXQ0qPb7GfISQZ?usp=sharing)  
 - 🧪 **Simulation**: [Wokwi Project](https://wokwi.com/projects/430014335081459713)
